@@ -1,0 +1,5 @@
+= dctl (daemon control)
+CZ.NIC z.s.p.o. <packaging@turris.cz>
+v1.0, 2021-07-13
+:icons:
+
